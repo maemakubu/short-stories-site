@@ -10,7 +10,7 @@ These stories are inspired by my experiences and the amazing people I've met thr
 ---
 
 ## 🌐 Live Site  
-[https://phillchikasha.github.io/short-stories-site](https://phillchikasha.github.io/short-stories-site)
+[https://maemakubu.github.io/short-stories-site](https://maemakubu.github.io/short-stories-site)
 
 ---
 
